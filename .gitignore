@@ -1,0 +1,74 @@
+# ==============================================================================
+# .gitignore for EEG_Locomotion_Decoding
+# ==============================================================================
+
+# OS & Cloud Storage Artifacts
+desktop.ini
+*/desktop.ini
+**/*/desktop.ini
+Thumbs.db
+.DS_Store
+
+# LaTeX Compilation Artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.spl
+*.bbl
+*.blg
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+texput.*
+
+# Python & Jupyter Notebook Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.egg-info/
+.pytest_cache/
+
+# Large Raw EEG Recordings & Datasets (Referenced via OpenNeuro ds007526)
+*.edf
+*.bdf
+*.set
+*.fdt
+*.fif
+*.vhdr
+*.vmrk
+*.eeg
+*.mat
+
+# Internal Drafts, Private Notes & Review Comments
+*.docx
+*.doc
+*.xlsx
+*.pptx
+Conversation_History.md
+Comprehensive_Research_Report.*
+RESEARCH_PLAN.md
+mermaid.md
+
+# Copyrighted Third-Party Literature
+Papers/
+
+# Local Journal Submission Package & Archives
+paper submit/
+archive/
+
+# Intermediate Root Visualizations (Canonical figures reside in figures/)
+Final methodology.png
+Final_methodology.png
+methodology-egg.png
+methodology_figure_eeg_locomotion.png
+methodology_flowchart_publication_v2.png
+methodology_premium_vertical.jpg
+
+# Temporary / Scratch Files
+output/**/__results___files/
+test_*
+.texposit/*
+!.texposit/ai-events.jsonl
+!.texposit/instructions.md

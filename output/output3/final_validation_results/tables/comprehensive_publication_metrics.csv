@@ -1,0 +1,4 @@
+Model Architecture,Accuracy (%),Balanced Accuracy (%),Macro F1-Score,Macro Precision,Macro Recall,ROC-AUC Score
+CSP + LinearSVC,58.10%,60.49%,0.5802,0.6089,0.6049,0.6524
+Random Forest (PSD),75.71%,75.43%,0.7521,0.7508,0.7543,0.8004
+XGBoost (PSD),77.14%,76.65%,0.7656,0.7649,0.7665,0.8319

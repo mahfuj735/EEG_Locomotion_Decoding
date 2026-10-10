@@ -1,0 +1,17 @@
+{
+  "id": "mdmahfujulkarim/eeg-locomotion-decoding-master",
+  "title": "EEG Locomotion Decoding Master Research",
+  "code_file": "Master_Research_Notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [
+    "sajidshahriar72543/ds007526-1-0-1"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

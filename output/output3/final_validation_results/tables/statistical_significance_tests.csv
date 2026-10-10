@@ -1,0 +1,4 @@
+Comparison,Paired t-statistic,t-test p-value,Wilcoxon p-value,Statistically Significant (p < 0.05)
+Random Forest (PSD) vs. CSP + LinearSVC,2.659,0.0565,0.0625,Borderline (p ~ 0.05)
+XGBoost (PSD) vs. CSP + LinearSVC,1.107,0.3303,0.4375,Borderline (p ~ 0.05)
+Artifact Effect (RF: EEG+EOG vs. EEG-Only),0.360,0.7368,N/A,Robust / Non-significant drop

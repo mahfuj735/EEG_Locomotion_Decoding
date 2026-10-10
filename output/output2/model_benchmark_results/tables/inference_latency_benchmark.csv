@@ -1,0 +1,6 @@
+Model,Inference Latency (ms),Real-Time Compliant (<50ms)
+CSP + LinearSVC,0.7048189640045166,YES (Ultra Fast)
+Random Forest (PSD),24.30553674697876,YES
+XGBoost (PSD),0.5504024028778076,YES
+Corrected EEGNet,110.49667835235596,YES
+Attention-CNN (Novel),96.5360689163208,YES

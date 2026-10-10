@@ -1,0 +1,4 @@
+Configuration,Channel Count,Mean Accuracy,Std Accuracy
+60 Channels (Full Cap),60,0.7943749999999999,0.04274058741407283
+16 Channels (Motor Region),14,0.6849999999999999,0.09919893995149343
+8 Channels (Wearable Minimal),6,0.6915625000000001,0.06858360545713531

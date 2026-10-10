@@ -1,0 +1,12 @@
+
+
+===== GROUPKFOLD CSP RESULTS =====
+
+Mean Accuracy: 0.7925
+
+Std Accuracy: 0.0461
+
+Mean Macro F1: 0.7915
+
+Std Macro F1: 0.0470
+
