@@ -59,12 +59,12 @@ paper submit/
 archive/
 
 # Intermediate Root Visualizations (Canonical figures reside in figures/)
-Final methodology.png
-Final_methodology.png
-methodology-egg.png
-methodology_figure_eeg_locomotion.png
-methodology_flowchart_publication_v2.png
-methodology_premium_vertical.jpg
+/Final methodology.png
+/Final_methodology.png
+/methodology-egg.png
+/methodology_figure_eeg_locomotion.png
+/methodology_flowchart_publication_v2.png
+/methodology_premium_vertical.jpg
 
 # Temporary / Scratch Files
 output/**/__results___files/

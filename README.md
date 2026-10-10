@@ -16,7 +16,7 @@ This repository hosts the canonical codebase, preprocessing pipelines, model arc
 
 Decoupling cortical gait dynamics from non-neural motion and ocular artifacts is a pivotal hurdle in developing non-invasive Brain-Computer Interfaces (BCIs) for lower-limb neurorehabilitation. Leveraging the public **OpenNeuro ds007526** cohort (**N=144** participants, **34,904 balanced epochs**), this work rigorously benchmarks five classifier families across subject-disjoint validation splits while empirically disproving artifact exploitation.
 
-![Methodology Flowchart](figures/fig_methodology_flowchart_premium.jpg)
+![Methodology Flowchart](figures/Final_methodology.png)
 
 ---
 
